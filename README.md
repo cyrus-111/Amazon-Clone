@@ -16,4 +16,4 @@ CSS
 
 # Live Demo Link
 
-link:
+link: https://amazon-clone-chi-tawny.vercel.app/
